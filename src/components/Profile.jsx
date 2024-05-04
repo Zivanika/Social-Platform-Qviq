@@ -1,7 +1,8 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { json, useNavigate } from 'react-router'
 import QRCode from 'react-qr-code';
-let host = "http://localhost:5000";
+let host = "https://social-platform-qviq-backend.onrender.com";
+// let host = "http://localhost:5000";
 function Profile() {
     const navigate= useNavigate()
     const [showQR, setShowQR]=useState(false);

@@ -19,7 +19,7 @@ function App() {
     <div className="h-[100vh] flex justify-center items-center">
       {/* <BEE image={image}/> */}
       <Routes>
-        <Route exact path="/" element={<Login credentials={credentials} setCredentials={setCredentials} setImage={setImage}/>}/>
+        <Route exact path="/Social-Platform-Qviq" element={<Login credentials={credentials} setCredentials={setCredentials} setImage={setImage}/>}/>
         <Route exact path="/profile" element={<Profile/>}/>
       </Routes>
     </div>

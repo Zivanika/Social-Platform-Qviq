@@ -7,7 +7,8 @@ import ErrorMessage from './ErrorMessage';
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,GoogleAuthProvider,signInWithPopup } from "firebase/auth";
 import { getDatabase,ref,set, } from "firebase/database";
 import Google from './Google';
-const baseURL="http://localhost:5000"
+const baseURL="https://social-platform-qviq-backend.onrender.com"
+// const baseURL="http://localhost:5000"
 
 const Login = (props) => {
     const auth = getAuth(app);
