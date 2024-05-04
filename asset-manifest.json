@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Social-Platform-Qviq/static/css/main.ff4e4f8d.css",
-    "main.js": "/Social-Platform-Qviq/static/js/main.1ead6831.js",
+    "main.js": "/Social-Platform-Qviq/static/js/main.40e95fb7.js",
     "static/js/453.d616059b.chunk.js": "/Social-Platform-Qviq/static/js/453.d616059b.chunk.js",
     "static/media/bee.jpg": "/Social-Platform-Qviq/static/media/bee.0d3edb22d0b0f12c5c73.jpg",
     "static/media/Pulse.gif": "/Social-Platform-Qviq/static/media/Pulse.da459f0ee2ef70b76357.gif",
     "index.html": "/Social-Platform-Qviq/index.html",
     "main.ff4e4f8d.css.map": "/Social-Platform-Qviq/static/css/main.ff4e4f8d.css.map",
-    "main.1ead6831.js.map": "/Social-Platform-Qviq/static/js/main.1ead6831.js.map",
+    "main.40e95fb7.js.map": "/Social-Platform-Qviq/static/js/main.40e95fb7.js.map",
     "453.d616059b.chunk.js.map": "/Social-Platform-Qviq/static/js/453.d616059b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4e4f8d.css",
-    "static/js/main.1ead6831.js"
+    "static/js/main.40e95fb7.js"
   ]
 }
