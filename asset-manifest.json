@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Zivanika/Social-Platform-Qviq/static/css/main.ff4e4f8d.css",
+    "main.js": "/Zivanika/Social-Platform-Qviq/static/js/main.78db8b9b.js",
+    "static/js/453.d616059b.chunk.js": "/Zivanika/Social-Platform-Qviq/static/js/453.d616059b.chunk.js",
+    "static/media/bee.jpg": "/Zivanika/Social-Platform-Qviq/static/media/bee.0d3edb22d0b0f12c5c73.jpg",
+    "static/media/Pulse.gif": "/Zivanika/Social-Platform-Qviq/static/media/Pulse.da459f0ee2ef70b76357.gif",
+    "index.html": "/Zivanika/Social-Platform-Qviq/index.html",
+    "main.ff4e4f8d.css.map": "/Zivanika/Social-Platform-Qviq/static/css/main.ff4e4f8d.css.map",
+    "main.78db8b9b.js.map": "/Zivanika/Social-Platform-Qviq/static/js/main.78db8b9b.js.map",
+    "453.d616059b.chunk.js.map": "/Zivanika/Social-Platform-Qviq/static/js/453.d616059b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4e4f8d.css",
+    "static/js/main.78db8b9b.js"
+  ]
+}
