@@ -73,7 +73,7 @@ my-project/
 ## 📌 Screenshots:
 ![login](/img/sign.png)
 ![signup](/img/signup.png)
-![profile](/img/home.png)
+![profile](/img/home.jpg)
 
 
 <h2>📬 Contact</h2>
